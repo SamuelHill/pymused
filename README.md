@@ -1,2 +1,3 @@
 # pymused
- a very generic set of tools for music theory
+
+A very generic set of tools for music theory.
