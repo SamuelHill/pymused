@@ -1,0 +1,1061 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"validate"
+			],
+			[
+				"Ty",
+				"TypeError"
+			],
+			[
+				"acci",
+				"accidental"
+			],
+			[
+				"new",
+				"new_name"
+			],
+			[
+				"repl",
+				"replacements"
+			],
+			[
+				"Ptol",
+				"PtolemyHEWM"
+			],
+			[
+				"trans",
+				"transposition"
+			],
+			[
+				"str",
+				"string_to_value"
+			],
+			[
+				"sim",
+				"simple_ratio"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"vali",
+				"validate_int"
+			],
+			[
+				"Opti",
+				"Optional"
+			],
+			[
+				"rat",
+				"ratio"
+			],
+			[
+				"oc",
+				"octave"
+			],
+			[
+				"valid",
+				"valid_notes"
+			],
+			[
+				"no",
+				"note_name"
+			],
+			[
+				"to",
+				"to_string\tfunction"
+			],
+			[
+				"K",
+				"KQMLException\tclass"
+			],
+			[
+				"event",
+				"event_pages"
+			],
+			[
+				"contat",
+				"contact_name"
+			],
+			[
+				"EVE",
+				"EVENTS_LIST"
+			],
+			[
+				"lis",
+				"links"
+			],
+			[
+				"FA",
+				"FACULTY_PAGE"
+			],
+			[
+				"requests",
+				"requests_html\tmodule"
+			],
+			[
+				"last_",
+				"last_modified_by"
+			],
+			[
+				"tran",
+				"transcribe"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"goa",
+				"goalsTab"
+			],
+			[
+				"stor",
+				"store-facts-in-mt"
+			],
+			[
+				"martg",
+				"margin-right"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"fl",
+				"flightTypeRadio"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"selec",
+				"selectedPublicTransit"
+			],
+			[
+				"veh",
+				"vehicle"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"sel",
+				"selectedHeating"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"nav",
+				"navbarAboutAs"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"index\tfunction"
+			],
+			[
+				"fi",
+				"first_half\tstatement"
+			],
+			[
+				"al",
+				"all_actions\tstatement"
+			],
+			[
+				"cel",
+				"cells_index\tstatement"
+			],
+			[
+				"retr",
+				"retract"
+			],
+			[
+				"file",
+				"file_path\tstatement"
+			],
+			[
+				"class",
+				"class_data\tstatement"
+			],
+			[
+				"sum",
+				"sum_class1\tstatement"
+			],
+			[
+				"sq",
+				"sigmasq1\tparam"
+			],
+			[
+				"gamm",
+				"gamma_denom\tstatement"
+			],
+			[
+				"sum_",
+				"sum_gaussians\tstatement"
+			],
+			[
+				"r",
+				"responsibility\tstatement"
+			],
+			[
+				"log",
+				"log-likelihood"
+			],
+			[
+				"nu",
+				"num_gaussians_k"
+			],
+			[
+				"shu",
+				"shuffle"
+			],
+			[
+				"dic",
+				"dictionary\tparam"
+			],
+			[
+				"0",
+				"0"
+			],
+			[
+				"wor",
+				"words\tstatement"
+			],
+			[
+				"p",
+				"preconditions"
+			],
+			[
+				"sup",
+				"supported_by"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"ass",
+				"asserted"
+			],
+			[
+				"s",
+				"supports_rules"
+			],
+			[
+				"li",
+				"list_of_bindings\tstatement"
+			],
+			[
+				"temp",
+				"temp_bindings_list"
+			],
+			[
+				"bin",
+				"binding"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"bind",
+				"binding"
+			],
+			[
+				"var",
+				"variable\tparam"
+			],
+			[
+				"state",
+				"state2\tparam"
+			],
+			[
+				"ge",
+				"get_new_fact\tfunction"
+			],
+			[
+				"bindin",
+				"binding"
+			],
+			[
+				"stat",
+				"statement"
+			],
+			[
+				"su",
+				"supported_by"
+			],
+			[
+				"fac",
+				"fact_rule\tstatement"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"sta",
+				"statement2\tstatement"
+			],
+			[
+				"tem",
+				"terms"
+			],
+			[
+				"ret",
+				"return\tkeyword"
+			],
+			[
+				"__",
+				"__repr__"
+			],
+			[
+				"up",
+				"updates"
+			],
+			[
+				"sampl",
+				"sampleErrorE"
+			],
+			[
+				"ev",
+				"evaluateF"
+			],
+			[
+				"sam",
+				"sampleErrorF"
+			],
+			[
+				"se",
+				"sampleErrorD"
+			],
+			[
+				"eva",
+				"evaluateC\tfunction"
+			],
+			[
+				"best",
+				"bestK\tstatement"
+			],
+			[
+				"all",
+				"allTimeBest\tstatement"
+			],
+			[
+				"k",
+				"kError\tstatement"
+			],
+			[
+				"e",
+				"errors\tstatement"
+			],
+			[
+				"test",
+				"testingData\tstatement"
+			],
+			[
+				"movieid",
+				"movieid\tparam"
+			],
+			[
+				"di",
+				"distances\tstatement"
+			],
+			[
+				"user",
+				"userid\tparam"
+			],
+			[
+				"num",
+				"numRates\tstatement"
+			],
+			[
+				"con",
+				"continuousInteraction\tfunction"
+			],
+			[
+				"fact",
+				"fact"
+			],
+			[
+				"Knol",
+				"KnowledgeBase\tclass"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"token",
+				"tokenized_rules"
+			],
+			[
+				"Sup",
+				"Support"
+			],
+			[
+				"__re",
+				"__repr__\tfunction"
+			],
+			[
+				"as",
+				"asserted"
+			],
+			[
+				"max",
+				"maxValue"
+			],
+			[
+				"sle",
+				"selfEmpty"
+			],
+			[
+				"Poli",
+				"polynomial"
+			],
+			[
+				"deg",
+				"degreeSums"
+			],
+			[
+				"fol",
+				"foldMean"
+			],
+			[
+				"ma",
+				"matrixX"
+			],
+			[
+				"bes",
+				"best"
+			],
+			[
+				"bestSumLocal",
+				"bestSumLocalK"
+			],
+			[
+				"be",
+				"bestSumLocal"
+			],
+			[
+				"de",
+				"degree"
+			],
+			[
+				"c",
+				"coefficients"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"extract ",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"key bindings",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 558.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"sublime.log_input(False)",
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)",
+			"view.file_name().split('\\\\')[-1].split('.')[1]",
+			"view.file_name().split('.')[1]",
+			"self.view.file_name().split('.')[1]",
+			"view.file_name().split('.')",
+			"view.file_name()",
+			"install",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/core",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/general_theory",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/twelve_tone"
+	],
+	"file_history":
+	[
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/chords.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/intervals.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/twelve_tone/just_intonation.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/core/utils.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/core/__init__.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/type_check_argname.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/decorators.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/scales.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/circle_of_fifths.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/general_theory/notation.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/core/validation.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/twelve_tone/twelve_edo.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/twelve_tone/chromatic_map.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/general_theory/temperments.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/general_theory/__init__.py",
+		"/C/Users/Sam Hill/Sync/General/programming/Python/music/twelve_tone/__init__.py",
+		"/C/Users/Sam Hill/AppData/Local/Temp/README.md-revHEAD.svn000.tmp.md",
+		"/C/Users/Sam Hill/AppData/Local/Temp/custom-functions.lsp-revHEAD.svn000.tmp.lsp",
+		"/C/Users/Sam Hill/Documents/allegro-ide-options-backup.cl",
+		"/C/Users/Sam Hill/Documents/allegro-ide-options.cl",
+		"/C/qrg/sme/v4/test.lsp",
+		"/C/qrg/magi/v2r07/xmapping.lsp",
+		"/C/qrg/sme/v4/match.lsp",
+		"/C/qrg/sme/v4/mapping.lsp",
+		"/C/qrg/fire/v3/analogy/rerep-accessors.lsp",
+		"/C/qrg/sme/v4/sme.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/marcus-reference.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/dgroups/di-de-di.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/stimuli/ba-ba-po.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/microtheories/ba-ba-po.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/magi-dehydrate.txt",
+		"/C/qrg/magi/v2r07/util.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ma-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-5.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/gbase-5.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ls-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/fa-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-5.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-19.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-15.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-13.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-12.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-10.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/2000studyoutline.txt",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/ramscar-init.lsp",
+		"/C/qrg/seql/v1/marcus/marcus-defs.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/stimuli/ex3.krf",
+		"/C/qrg/seql/classic/Ex1.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/results/results.txt",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/stimuli/language_vcb.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/1988-replication-update-notes..txt",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/1988studyoutline.txt",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/microtheories/di-de-di.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/dgroups/ba-ba-po.dgr",
+		"/C/qrg/fire/v3/analogy/sagewm/sagewm-generalize.lsp",
+		"/C/qrg/fire/v3/tools/344-utils.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/results/results-readable-generalizations.txt",
+		"/C/qrg/fire/v3/analogy/sagewm/sagewm-utils.lsp",
+		"/C/qrg/seql/v1/marcus/marcus-main.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/dgroups/de-di-de.dgr",
+		"/C/qrg/seql/v1/marcus/marcus-phase4.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-marcus-replica/stimuli/we-wi-wi.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/ta-7.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/base-8.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/stimuli/gbase-5-by_hand.krf",
+		"/C/qrg/magi/v2r07/Readme.txt",
+		"/C/qrg/fire/v3/experimental/htms/htms.lsp",
+		"/C/qrg/magi/v2r07/analyze.lsp",
+		"/C/qrg/planb/test-files/syslit3/base-5.krf",
+		"/C/qrg/seql/classic/Utils.lsp",
+		"/C/qrg/sme/v4/dehydrate.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/stimuli/dehydrated.dat",
+		"/C/qrg/seql/v1/vocabulary/sys2lang.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/defsys.lsp",
+		"/C/qrg/seql/classic/If-then.lsp",
+		"/C/qrg/seql/v1/generalize.lsp",
+		"/C/qrg/seql/v1/genls-and-expls.lsp",
+		"/C/qrg/seql/v1/genls-or-expls.lsp",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/1988-experiment-replica/stimuli/ex1.krf",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-10.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-12.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-13.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-15.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-17.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-18.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-19.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-7.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-8.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-9.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-97.dgr",
+		"/C/qrg/fire/flat-files/NWU/sagewm-replica-studies/2000-ramscar-replica/dgroups/base-98.dgr"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"potentially",
+			"wrap_octave",
+			"_test_suite",
+			"_type_",
+			"_frame_",
+			"_type_",
+			"string_exec",
+			"exec_string",
+			"string_to_exec",
+			"\\",
+			"function_to_validate.__name__",
+			"_type_",
+			"test_validate",
+			"variable",
+			"data_type",
+			"str",
+			"nameof",
+			"e",
+			"var",
+			"check",
+			"to_check",
+			"variable",
+			"... ",
+			"fun",
+			"variable_name",
+			"\"",
+			"power_perm",
+			"combo",
+			"ratio_filter",
+			"ratio_",
+			"power_perm",
+			"new_ratio",
+			"power",
+			"num",
+			"s",
+			"... ",
+			"###########################################################",
+			"new_note_name",
+			"_get_tonic_name",
+			"_get_key_signature(",
+			"_apply_accidental",
+			"get_key_signature",
+			"name",
+			"key_name",
+			"ptolemyNotation",
+			"PtolemyNotation",
+			"Pt_HEWM_",
+			"try_flat",
+			"_notes",
+			"a",
+			"sorted_accidentals",
+			"gcd",
+			"accidentals",
+			"get_parallel_minor",
+			"parallel",
+			"map_notation",
+			"check_enharmonics",
+			"変",
+			"Optional",
+			"Dict[str, int]",
+			"###############################",
+			"Dict[str, int]",
+			"DEFAULT_USE",
+			"num_octaves: int = DEFAULT_NUM",
+			",\n                   num_octaves: int = DEFAULT_NUM",
+			", num_octaves",
+			"accidental_mods",
+			"accidental",
+			"\n                alphabet[self._apply_accidental(space, sharp)] = space",
+			"sharp",
+			"tone_row",
+			"alphabet",
+			"ChromaticMap",
+			"gcd",
+			"denom",
+			"numer",
+			"all_ints",
+			"b",
+			"a",
+			"1",
+			"a",
+			"name",
+			"note",
+			"\"",
+			"note_groups",
+			"strings",
+			"(",
+			")",
+			"note_strings",
+			"item",
+			"note_string",
+			"pair",
+			"CentsOptions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 130.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 172.0
+	},
+	"output.exec":
+	{
+		"height": 81.0
+	},
+	"output.find_results":
+	{
+		"height": 211.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "music.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Fall 2017\\EECS 348 Intro to AI\\HW3\\logic.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
